@@ -217,7 +217,7 @@
                         <i class="flaticon-grooming display-1 text-primary me-4"></i>
                         <div>
                             <h5 class="text-uppercase mb-3">Pet Grooming</h5>
-                            <p>Serving cat & dog gooming services - gooming calls - pampering & bathing your beloved pets</p>
+                            <p>Manjakan pet anda dengan berbagai perawatan grooming yang ada di market place</p>
                             <a class="text-primary text-uppercase" href="">Read More<i class="bi bi-chevron-right"></i></a>
                         </div>
                     </div>
@@ -247,7 +247,7 @@
                         <i class="flaticon-vaccine display-1 text-primary me-4"></i>
                         <div>
                             <h5 class="text-uppercase mb-3">Pet Doctor</h5>
-                            <p>Melayani </p>
+                            <p>Konsultasikan masalah kesehatan pet anda dengan banyak dokter hewan berpengalaman disini </p>
                             <a class="text-primary text-uppercase" href="">Read More<i class="bi bi-chevron-right"></i></a>
                         </div>
                     </div>
@@ -270,7 +270,7 @@
                     <div class="product-item position-relative bg-light d-flex flex-column text-center">
                         <img class="img-fluid mb-4" src="img/product-1.png" alt="">
                         <h6 class="text-uppercase">Quality Pet Foods</h6>
-                        <h5 class="text-primary mb-0">$199.00</h5>
+                        <h5 class="text-primary mb-0">Rp20.000</h5>
                         <div class="btn-action d-flex justify-content-center">
                             <a class="btn btn-primary py-2 px-3" href=""><i class="bi bi-cart"></i></a>
                             <a class="btn btn-primary py-2 px-3" href=""><i class="bi bi-eye"></i></a>
@@ -281,7 +281,7 @@
                     <div class="product-item position-relative bg-light d-flex flex-column text-center">
                         <img class="img-fluid mb-4" src="img/product-2.png" alt="">
                         <h6 class="text-uppercase">Quality Pet Foods</h6>
-                        <h5 class="text-primary mb-0">$199.00</h5>
+                        <h5 class="text-primary mb-0">Rp30.000</h5>
                         <div class="btn-action d-flex justify-content-center">
                             <a class="btn btn-primary py-2 px-3" href=""><i class="bi bi-cart"></i></a>
                             <a class="btn btn-primary py-2 px-3" href=""><i class="bi bi-eye"></i></a>
@@ -303,7 +303,7 @@
                     <div class="product-item position-relative bg-light d-flex flex-column text-center">
                         <img class="img-fluid mb-4" src="img/product-4.png" alt="">
                         <h6 class="text-uppercase">Quality Pet Foods</h6>
-                        <h5 class="text-primary mb-0">$199.00</h5>
+                        <h5 class="text-primary mb-0">Rp45.000</h5>
                         <div class="btn-action d-flex justify-content-center">
                             <a class="btn btn-primary py-2 px-3" href=""><i class="bi bi-cart"></i></a>
                             <a class="btn btn-primary py-2 px-3" href=""><i class="bi bi-eye"></i></a>
@@ -314,7 +314,7 @@
                     <div class="product-item position-relative bg-light d-flex flex-column text-center">
                         <img class="img-fluid mb-4" src="img/product-2.png" alt="">
                         <h6 class="text-uppercase">Quality Pet Foods</h6>
-                        <h5 class="text-primary mb-0">$199.00</h5>
+                        <h5 class="text-primary mb-0">Rp.25.000</h5>
                         <div class="btn-action d-flex justify-content-center">
                             <a class="btn btn-primary py-2 px-3" href=""><i class="bi bi-cart"></i></a>
                             <a class="btn btn-primary py-2 px-3" href=""><i class="bi bi-eye"></i></a>
